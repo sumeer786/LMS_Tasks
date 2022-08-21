@@ -1,0 +1,13 @@
+/Users/sumeeranand/Projects/FactoryPatternApp/FactoryPatternApp/bin/Debug/netcoreapp3.1/FactoryPatternApp.deps.json
+/Users/sumeeranand/Projects/FactoryPatternApp/FactoryPatternApp/bin/Debug/netcoreapp3.1/FactoryPatternApp.runtimeconfig.json
+/Users/sumeeranand/Projects/FactoryPatternApp/FactoryPatternApp/bin/Debug/netcoreapp3.1/FactoryPatternApp.runtimeconfig.dev.json
+/Users/sumeeranand/Projects/FactoryPatternApp/FactoryPatternApp/bin/Debug/netcoreapp3.1/FactoryPatternApp.dll
+/Users/sumeeranand/Projects/FactoryPatternApp/FactoryPatternApp/bin/Debug/netcoreapp3.1/FactoryPatternApp.pdb
+/Users/sumeeranand/Projects/FactoryPatternApp/FactoryPatternApp/obj/Debug/netcoreapp3.1/FactoryPatternApp.csproj.AssemblyReference.cache
+/Users/sumeeranand/Projects/FactoryPatternApp/FactoryPatternApp/obj/Debug/netcoreapp3.1/FactoryPatternApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumeeranand/Projects/FactoryPatternApp/FactoryPatternApp/obj/Debug/netcoreapp3.1/FactoryPatternApp.AssemblyInfoInputs.cache
+/Users/sumeeranand/Projects/FactoryPatternApp/FactoryPatternApp/obj/Debug/netcoreapp3.1/FactoryPatternApp.AssemblyInfo.cs
+/Users/sumeeranand/Projects/FactoryPatternApp/FactoryPatternApp/obj/Debug/netcoreapp3.1/FactoryPatternApp.csproj.CoreCompileInputs.cache
+/Users/sumeeranand/Projects/FactoryPatternApp/FactoryPatternApp/obj/Debug/netcoreapp3.1/FactoryPatternApp.dll
+/Users/sumeeranand/Projects/FactoryPatternApp/FactoryPatternApp/obj/Debug/netcoreapp3.1/FactoryPatternApp.pdb
+/Users/sumeeranand/Projects/FactoryPatternApp/FactoryPatternApp/obj/Debug/netcoreapp3.1/FactoryPatternApp.genruntimeconfig.cache
