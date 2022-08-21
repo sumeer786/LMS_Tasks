@@ -1,0 +1,13 @@
+/Users/sumeeranand/Projects/ProxyPatternApp/ProxyPatternApp/bin/Debug/netcoreapp3.1/ProxyPatternApp.deps.json
+/Users/sumeeranand/Projects/ProxyPatternApp/ProxyPatternApp/bin/Debug/netcoreapp3.1/ProxyPatternApp.runtimeconfig.json
+/Users/sumeeranand/Projects/ProxyPatternApp/ProxyPatternApp/bin/Debug/netcoreapp3.1/ProxyPatternApp.runtimeconfig.dev.json
+/Users/sumeeranand/Projects/ProxyPatternApp/ProxyPatternApp/bin/Debug/netcoreapp3.1/ProxyPatternApp.dll
+/Users/sumeeranand/Projects/ProxyPatternApp/ProxyPatternApp/bin/Debug/netcoreapp3.1/ProxyPatternApp.pdb
+/Users/sumeeranand/Projects/ProxyPatternApp/ProxyPatternApp/obj/Debug/netcoreapp3.1/ProxyPatternApp.csproj.AssemblyReference.cache
+/Users/sumeeranand/Projects/ProxyPatternApp/ProxyPatternApp/obj/Debug/netcoreapp3.1/ProxyPatternApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumeeranand/Projects/ProxyPatternApp/ProxyPatternApp/obj/Debug/netcoreapp3.1/ProxyPatternApp.AssemblyInfoInputs.cache
+/Users/sumeeranand/Projects/ProxyPatternApp/ProxyPatternApp/obj/Debug/netcoreapp3.1/ProxyPatternApp.AssemblyInfo.cs
+/Users/sumeeranand/Projects/ProxyPatternApp/ProxyPatternApp/obj/Debug/netcoreapp3.1/ProxyPatternApp.csproj.CoreCompileInputs.cache
+/Users/sumeeranand/Projects/ProxyPatternApp/ProxyPatternApp/obj/Debug/netcoreapp3.1/ProxyPatternApp.dll
+/Users/sumeeranand/Projects/ProxyPatternApp/ProxyPatternApp/obj/Debug/netcoreapp3.1/ProxyPatternApp.pdb
+/Users/sumeeranand/Projects/ProxyPatternApp/ProxyPatternApp/obj/Debug/netcoreapp3.1/ProxyPatternApp.genruntimeconfig.cache
