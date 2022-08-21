@@ -1,0 +1,13 @@
+/Users/sumeeranand/Projects/AdapterPatternSolution/FancyItemLibrary/obj/Debug/netcoreapp3.1/FancyItemLibrary.csproj.AssemblyReference.cache
+/Users/sumeeranand/Projects/AdapterPatternSolution/FancyItemLibrary/obj/Debug/netcoreapp3.1/FancyItemLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumeeranand/Projects/AdapterPatternSolution/FancyItemLibrary/obj/Debug/netcoreapp3.1/FancyItemLibrary.AssemblyInfoInputs.cache
+/Users/sumeeranand/Projects/AdapterPatternSolution/FancyItemLibrary/obj/Debug/netcoreapp3.1/FancyItemLibrary.AssemblyInfo.cs
+/Users/sumeeranand/Projects/AdapterPatternSolution/FancyItemLibrary/obj/Debug/netcoreapp3.1/FancyItemLibrary.csproj.CoreCompileInputs.cache
+/Users/sumeeranand/Projects/AdapterPatternSolution/FancyItemLibrary/bin/Debug/netcoreapp3.1/FancyItemLibrary.deps.json
+/Users/sumeeranand/Projects/AdapterPatternSolution/FancyItemLibrary/bin/Debug/netcoreapp3.1/FancyItemLibrary.runtimeconfig.json
+/Users/sumeeranand/Projects/AdapterPatternSolution/FancyItemLibrary/bin/Debug/netcoreapp3.1/FancyItemLibrary.runtimeconfig.dev.json
+/Users/sumeeranand/Projects/AdapterPatternSolution/FancyItemLibrary/bin/Debug/netcoreapp3.1/FancyItemLibrary.dll
+/Users/sumeeranand/Projects/AdapterPatternSolution/FancyItemLibrary/bin/Debug/netcoreapp3.1/FancyItemLibrary.pdb
+/Users/sumeeranand/Projects/AdapterPatternSolution/FancyItemLibrary/obj/Debug/netcoreapp3.1/FancyItemLibrary.dll
+/Users/sumeeranand/Projects/AdapterPatternSolution/FancyItemLibrary/obj/Debug/netcoreapp3.1/FancyItemLibrary.pdb
+/Users/sumeeranand/Projects/AdapterPatternSolution/FancyItemLibrary/obj/Debug/netcoreapp3.1/FancyItemLibrary.genruntimeconfig.cache
