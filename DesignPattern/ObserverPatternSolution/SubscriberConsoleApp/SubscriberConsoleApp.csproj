@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Subscriber\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Subscriber\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PublisherLibrary\PublisherLibrary.csproj" />
+  </ItemGroup>
+</Project>

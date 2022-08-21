@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SubscriberConsoleApp/1.0.0": {
+        "dependencies": {
+          "PublisherLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SubscriberConsoleApp.dll": {}
+        }
+      },
+      "PublisherLibrary/1.0.0": {
+        "runtime": {
+          "PublisherLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SubscriberConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PublisherLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
